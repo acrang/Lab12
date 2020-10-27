@@ -1,0 +1,13 @@
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\obj\Debug\netcoreapp3.1\Lab12UML.csprojAssemblyReference.cache
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\obj\Debug\netcoreapp3.1\Lab12UML.AssemblyInfoInputs.cache
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\obj\Debug\netcoreapp3.1\Lab12UML.AssemblyInfo.cs
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\obj\Debug\netcoreapp3.1\Lab12UML.csproj.CoreCompileInputs.cache
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\bin\Debug\netcoreapp3.1\Lab12UML.exe
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\bin\Debug\netcoreapp3.1\Lab12UML.deps.json
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\bin\Debug\netcoreapp3.1\Lab12UML.runtimeconfig.json
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\bin\Debug\netcoreapp3.1\Lab12UML.runtimeconfig.dev.json
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\bin\Debug\netcoreapp3.1\Lab12UML.dll
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\bin\Debug\netcoreapp3.1\Lab12UML.pdb
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\obj\Debug\netcoreapp3.1\Lab12UML.dll
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\obj\Debug\netcoreapp3.1\Lab12UML.pdb
+C:\Users\acran\source\repos\Labs\Lab12UML\Lab12UML\obj\Debug\netcoreapp3.1\Lab12UML.genruntimeconfig.cache
